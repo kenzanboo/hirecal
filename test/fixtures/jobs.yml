@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  date: 2011-03-20
+  pay: 9.99
+  description: MyText
+  employee_requirements: MyText
+
+two:
+  name: MyString
+  date: 2011-03-20
+  pay: 9.99
+  description: MyText
+  employee_requirements: MyText
