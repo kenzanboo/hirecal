@@ -1,0 +1,18 @@
+git pull --rebase
+rake spec
+cucumber
+
+rake spec:rcov
+
+rake db:migrate
+rake db:reset
+
+Sequel Pro for Mac
+
+
+start mysql:
+	sudo mysqld_safe
+
+
+start server:
+	script/server
