@@ -10,9 +10,7 @@ rake db:reset
 Sequel Pro for Mac
 
 
-start mysql:
-	sudo mysqld_safe
 
 
 start server:
-	script/server
+	rails server
