@@ -1,3 +1,5 @@
+http://guides.rubyonrails.org/getting_started.html
+
 git pull --rebase
 rake spec
 cucumber
